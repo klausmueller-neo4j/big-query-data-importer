@@ -57,6 +57,3 @@ This Python project provides a simple pipeline to:
 After running, you will have:
 - A CSV file at `BQ_OUTPUT_PATH` containing the extracted data.
 - Nodes and relationships loaded into your Neo4j database.
-
-## License
-Specify your license here or add a `LICENSE` file.
